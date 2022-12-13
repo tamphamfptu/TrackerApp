@@ -8,7 +8,6 @@ import ManageExpense from "./screens/ManageExpenses";
 import RecentExpenses from "./screens/RecentExpenses";
 import AllExpenses from "./screens/AllExpenses";
 import { GLobalStyles } from "./constants/styles";
-import ExpensesList from "./components/ExpensesList";
 
 const Stack = createNativeStackNavigator();
 const BottomTabs = createBottomTabNavigator();
